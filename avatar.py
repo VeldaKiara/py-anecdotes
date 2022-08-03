@@ -2,7 +2,7 @@ from tkinter import N
 from turtle import *
 speed(0)
 bgcolor('purple')
-color('lime')
+color('pink')
 hideturtle()
 n = 1
 p = True
@@ -16,7 +16,3 @@ while True:
         p=not p
     right(1.6)
     backward(5)
-
-
-
-
