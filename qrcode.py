@@ -4,3 +4,4 @@ link = "https://github.com/VeldaKiara"
 qr_code = pyqrcode.create(link)
 qr_code.png("qrimage.png", scale=6)
 
+
