@@ -1,3 +1,4 @@
+#dependencies intall pypng to access png
 import pyqrcode
 import png 
 link = "https://github.com/VeldaKiara"
