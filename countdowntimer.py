@@ -9,7 +9,7 @@ def count_down_timer(timer):
         min, sec = divmod(timer, 60)
         time_format = '{:02d} : {:02d} '.format(min, sec)
         print(time_format, end='/r ')
-        time.sleep(1)
+        time.sleep(0.5)
         timer -= 1
 
 
